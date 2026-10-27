@@ -12,4 +12,3 @@ public class ShippingCalculator {
         System.out.println("Item Availability: " + itemStatus);
     }
 }
-Compose
